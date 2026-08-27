@@ -11,7 +11,7 @@ Developed as part of a master's thesis at Karolinska Institutet, Stockholm, 2026
 - Notebook 2: PixelClassifier Training
 - Notebook 3:  Mask generation
 
-*Environment:* APOC
+*Environment:* APOC (python version 3.9.25)
 
 **Image processing** (Notebook 4: Analysis) <br>
 Quantification and analysis of NR uptake and of colocalization with lysosomes and endosomes. This step is fully automated and only requires initial selection/adjustment of:
@@ -19,12 +19,12 @@ Quantification and analysis of NR uptake and of colocalization with lysosomes an
 - adjustment of absolute thresholds for segmentation of vesicles
 - adjustment of relative thresholds for segmentation of vesicles
 
-*Environment:* Cellpose
+*Environment:* Cellpose (python version 3.10.20)
 
 **Data extraction** (Notebook 5: Data extraction) <br>
 Extract and filter data for plots and statistical analyses
 
-*Environment*: Base
+*Environment*: Base (python version 3.13.9)
 
 ### Requirements
 | Environment | Package | Version |
